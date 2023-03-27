@@ -1,5 +1,4 @@
 import prueba.de.banco.CuentaAhorro;
-import prueba.de.banco.CuentaBase;
 import prueba.de.banco.TarjetaCredito;
 import prueba.de.banco.TarjetaDebito;
 
